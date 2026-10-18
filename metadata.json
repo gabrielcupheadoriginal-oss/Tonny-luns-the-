@@ -1,0 +1,6 @@
+{
+  "name": "Tonny Luns Run — Céu de HollyTonny",
+  "description": "Jogo de plataforma 2D em pixel art por Gabriel Enedino. Explore o Céu de HollyTonny, pilote dirigíveis e balões, enfrente novos chefes e viva o Capítulo Especial de 1980: O Roubo do Caixão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
